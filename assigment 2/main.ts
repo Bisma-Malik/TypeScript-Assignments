@@ -1,2 +1,2 @@
-let personname = "BISMA MALIK";
-console.log ("Hello",personname,"would you like to learn some python today?");
+let Personname = "BISMA MALIK";
+console.log ("Hello",Personname,"would you like to learn some python today?");
